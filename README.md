@@ -1,1 +1,0 @@
-# apna_college_javascript_code_1-to-100_even_number
